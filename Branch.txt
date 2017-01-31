@@ -1,0 +1,6 @@
+text for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branchingtext for branching
+
+get ('abuot', function()){
+	
+	return 'About page'
+}
